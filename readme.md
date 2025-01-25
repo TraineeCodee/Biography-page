@@ -103,7 +103,7 @@ create a biography above used by html and css
 
 <div class="container">
     <div class="bio-image">
-        <img src="https://via.placeholder.com/150" alt="John Doe">
+        <img src="https://via.placeholder.com/150" alt="ashiq">
     </div>
     <h2>About Me</h2>
     <p>Hi! I'm Ashiq Muhammed , a passionate web developer with a love for creating beautiful and functional websites. I have been in the tech industry for over 5 years and enjoy solving problems through code. Outside of work, I enjoy hiking, photography, and exploring new cuisines.</p>
